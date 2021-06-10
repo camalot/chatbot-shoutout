@@ -1,4 +1,5 @@
 # CHATBOT-SHOUTOUT
+[![Shoutout Overlay](https://github.com/camalot/chatbot-shoutout/actions/workflows/build.yml/badge.svg)](https://github.com/camalot/chatbot-shoutout/actions/workflows/build.yml)
 
 This shows a streamers profile image when they are given a shoutout in the channel. 
   
